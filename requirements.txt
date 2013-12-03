@@ -1,0 +1,2 @@
+git://github.com/akretion/openerp-server#egg=openerp-server
+bzr+ssh://bazaar.launchpad.net/+branch/openerp-command/@191#egg=openerp-command
